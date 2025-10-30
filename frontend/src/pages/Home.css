@@ -1,0 +1,8 @@
+/* src/index.css o src/App.css */
+
+.heart-mask {
+  /* Define la forma del recorte como un corazón usando clip-path */
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  /* Agrega un borde redondeado para un efecto visual extra si se desea */
+  border-radius: 5px; 
+}
