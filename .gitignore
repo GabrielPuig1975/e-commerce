@@ -1,1 +1,8 @@
 node_modules
+
+git status      # Ver estado
+git add .       # Preparar cambios  
+git commit -m   # Guardar local
+git push        # Subir a GitHub
+git pull        # Actualizar local
+git log         Ver historial
