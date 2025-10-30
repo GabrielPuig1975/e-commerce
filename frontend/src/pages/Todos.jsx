@@ -8,21 +8,21 @@ export default function Todos() {
       id: 1,
       nombre: 'Producto 1',
       precio: 10.99,
-      image: './src/assets/descargar.jpeg',
+      image: '../../public/descargar.jpeg',
       desc: 'Descripción del Producto 1',
     },
     {
       id: 2,
       nombre: 'Producto 2',
       precio: 19.99,
-      image: './src/assets/descargar.jpeg',
+      image: '../../public/descargar.jpeg',
       desc: 'Descripción del Producto 2',
     },
     {
       id: 3,
       nombre: 'Producto 3',
       precio: 5.49,
-      image: './src/assets/descargar.jpeg',
+      image: '../../public/descargar.jpeg',
       desc: 'Descripción del Producto 3',
     }
   ];
