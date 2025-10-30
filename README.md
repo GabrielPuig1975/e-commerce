@@ -3,7 +3,7 @@
 > **⚠️ AVISO: Este es un proyecto comercial. El código fuente está protegido.**
 
 ## 🎯 Demo en Vivo
-[👉 Ver aplicación funcionando]([https://tu-demo.vercel.app](https://help-commerce-app.netlify.app/))
+[👉 Ver aplicación funcionando]([(https://help-commerce-app.netlify.app/)])
 
 ## 📸 Vista Previa
 https://help-commerce-app.netlify.app/
