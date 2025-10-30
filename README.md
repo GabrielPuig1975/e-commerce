@@ -6,8 +6,8 @@
 [👉 Ver aplicación funcionando](https://tu-demo.vercel.app)
 
 ## 📸 Vista Previa
-![Pantalla Principal](https://via.placeholder.com/800x400?text=Captura+de+tu+App)
-![Carrito de Compras](https://via.placeholder.com/800x400?text=Captura+del+Carrito)
+https://help-commerce-app.netlify.app/
+https://help-commerce-app.netlify.app/todos
 
 ## ✨ Características
 - ✅ Carrito de compras interactivo
@@ -27,14 +27,15 @@
 ### 💰 Precios
 | Tipo | Precio | Destino |
 |------|--------|---------|
-| Licencia Básica | $400 | Uso personal |
-| Licencia Comercial | $900 | Negocios/Startups |
-| Personalización | $50/hora | Modificaciones |
+| Licencia Básica | U$D400 | Uso personal |
+| Licencia Comercial | U$D900 | Negocios/Startups |
+| Personalización | $UD50/hora | Modificaciones |
 
 ### 📞 Contacto
 **Gabriel Puig**
 - 📧 Email: gabrielfernando075puig@gmail.com
-- 💼 LinkedIn: [Tu perfil] (opcional)
+- 💼 LinkedIn: (https://www.linkedin.com/in/gabriel-fernando-puig-70a33a20a/
+- Cel: +54 9 221 572-7129
 
 ---
 
